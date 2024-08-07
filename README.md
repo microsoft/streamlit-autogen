@@ -1,6 +1,6 @@
-# 💬 Chatbot template
+# 💬 Autogen with Azure OpenAI template
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+A simple Streamlit app for running Autogen Agents with Azure OpenAI.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
 
