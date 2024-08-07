@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'shn'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_94F198A7F6EF42C7A8A514343DFA910E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CE4FE875E704900A630BE7431F1720D }}
