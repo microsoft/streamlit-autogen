@@ -1,3 +1,3 @@
 streamlit
 openai
-pyautogen
+autogen-agentchat~=0.2.0
